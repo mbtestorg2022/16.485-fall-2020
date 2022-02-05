@@ -4,18 +4,341 @@ title: Calendar
 uid: 82cbb357-deab-ff02-b193-e8aaa9f613a4
 ---
 
-| UNIT # | TOPICS | KEY DATES |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 1 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 3D Geometry {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 1 due {{< br >}}{{< br >}} Lab 2 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Geometric Control {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 2 due {{< br >}}{{< br >}} Lab 3 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Trajectory Optimization {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 3 due {{< br >}}{{< br >}} Lab 4 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 2D Computer Vision {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 4 due {{< br >}}{{< br >}} Lab 5 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 2-view Geometry and Minimal Solvers {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 5 due {{< br >}}{{< br >}} Lab 6 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Non-minimal Solvers and Visual Odometry {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 6 due {{< br >}}{{< br >}} Lab 7 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Place Recognition {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 7 due {{< br >}}{{< br >}} Lab 8 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} SLAM and Visual-Inertial Navigation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 8 due {{< br >}}{{< br >}} Lab 9 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Advanced Topics: Open Problems in Robot Perception {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Advanced Topics: Metric-Semantic Understanding {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Advanced Topics: Robustness {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Guest Lectures and Student Presentations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+UNIT #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 1 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+3D Geometry
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 1 due
+
+Lab 2 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Geometric Control
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 2 due
+
+Lab 3 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Trajectory Optimization
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 3 due
+
+Lab 4 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+2D Computer Vision
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 4 due
+
+Lab 5 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+2-view Geometry and Minimal Solvers
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 5 due
+
+Lab 6 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Non-minimal Solvers and Visual Odometry
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 6 due
+
+Lab 7 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Place Recognition
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 7 due
+
+Lab 8 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+SLAM and Visual-Inertial Navigation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 8 due
+
+Lab 9 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Advanced Topics: Open Problems in Robot Perception
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Advanced Topics: Metric-Semantic Understanding
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Advanced Topics: Robustness
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Guest Lectures and Student Presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

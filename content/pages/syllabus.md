@@ -49,9 +49,79 @@ The final project will be completed in teams formed according to the students’
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} **Lab Exercises** {{< br >}}{{< br >}} *   Set of questions covering both theoretical aspects (discussed during the lectures) and the result of implementation and testing of algorithms (assigned during the labs). {{< br >}}{{< br >}}  | 60% |
-|  {{< br >}}{{< br >}} **Final Project Report, Demo, Presentation** {{< br >}}{{< br >}} *   A final demo, together with a technical report (formatted according to ICRA guidelines) detailing and motivating the choice of final project and your approach to address and solve the corresponding problem.{{< br >}}*   A final presentation reporting on the outcome of your implementation, including experimental results and videos describing the overall project. {{< br >}}{{< br >}}  | 25% |
-|  {{< br >}}{{< br >}} **Participation, TA evaluation** {{< br >}}{{< br >}} *   Your participation in the lectures and labs, including attendance and evaluation of your performance in the labs by the VNAV staff. {{< br >}}{{< br >}}  | 10% |
-|  {{< br >}}{{< br >}} **Team Members’ Assessment** {{< br >}}{{< br >}} *   Assessment of your performance by your teammates. {{< br >}}{{< br >}}  | 5%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Lab Exercises**
+
+*   Set of questions covering both theoretical aspects (discussed during the lectures) and the result of implementation and testing of algorithms (assigned during the labs).
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Final Project Report, Demo, Presentation**
+
+*   A final demo, together with a technical report (formatted according to ICRA guidelines) detailing and motivating the choice of final project and your approach to address and solve the corresponding problem.
+*   A final presentation reporting on the outcome of your implementation, including experimental results and videos describing the overall project.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Participation, TA evaluation**
+
+*   Your participation in the lectures and labs, including attendance and evaluation of your performance in the labs by the VNAV staff.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Team Members’ Assessment**
+
+*   Assessment of your performance by your teammates.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
