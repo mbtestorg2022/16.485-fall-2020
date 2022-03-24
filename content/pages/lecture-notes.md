@@ -52,7 +52,7 @@ TOPICS
 
 [Lecture 2 and 3: 3D Geometric Basics (PDF - 1.2MB)]({{< baseurl >}}/resources/mit16_485f20_lec02and03)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 4 and 5: Lie Groups and Distances (PDF)]({{< baseurl >}}/resources/mit16_485f20_lec04)
+[Lecture 4 and 5: Lie Groups and Distances (PDF)]({{< baseurl >}}/resources/mit16_485f20_lec04)
 
 
 {{< tdclose >}}
@@ -138,9 +138,9 @@ Lecture 12 and 13: Feature Detection and Tracking ([slides PDF]({{< baseurl >}}/
 
 [Lecture 14: 2-view Geometry (PDF - 1.4MB)]({{< baseurl >}}/resources/mit16_485f20_lec14)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Lecture 15: RANSAC and 3D-3D Correspondences ([slides PDF - 1MB]({{< baseurl >}}/resources/mit16_485f20_lec15), [course notes PDF]({{< baseurl >}}/resources/mit16_485f20_lec15notes))
+Lecture 15: RANSAC and 3D-3D Correspondences ([slides PDF - 1MB]({{< baseurl >}}/resources/mit16_485f20_lec15), [course notes PDF]({{< baseurl >}}/resources/mit16_485f20_lec15notes))
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Lecture 16: ML and MAP Estimation ([slides PDF - 1.3MB]({{< baseurl >}}/resources/mit16_485f20_lec16), [course notes PDF]({{< baseurl >}}/resources/mit16_485f20_lec16notes))
+Lecture 16: ML and MAP Estimation ([slides PDF - 1.3MB]({{< baseurl >}}/resources/mit16_485f20_lec16), [course notes PDF]({{< baseurl >}}/resources/mit16_485f20_lec16notes))
 
 
 {{< tdclose >}}
@@ -161,9 +161,9 @@ Lecture 12 and 13: Feature Detection and Tracking ([slides PDF]({{< baseurl >}}/
 
 Lecture 17: Intro to Nonlinear Least Squares ([part 1 PDF - 1.4MB]({{< baseurl >}}/resources/mit16_485f20_lec17part1), [part 2 PDF]({{< baseurl >}}/resources/mit16_485f20_lec17part2))
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 18: LM and Optimization on Manifold (PDF - 2.1MB)]({{< baseurl >}}/resources/mit16_485f20_lec18)
+[Lecture 18: LM and Optimization on Manifold (PDF - 2.1MB)]({{< baseurl >}}/resources/mit16_485f20_lec18)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 19: Optimization on Manifold (PDF  - 3.9MB)]({{< baseurl >}}/resources/mit16_485f20_lec19)
+[Lecture 19: Optimization on Manifold (PDF  - 3.9MB)]({{< baseurl >}}/resources/mit16_485f20_lec19)
 
 
 {{< tdclose >}}
@@ -186,7 +186,7 @@ Lecture 17: Intro to Nonlinear Least Squares ([part 1 PDF - 1.4MB]({{< baseurl >
 
 [Lecture 21: Place Recognition (PDF - 8.8MB)]({{< baseurl >}}/resources/mit16_485f20_lec21)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 22: Bag of Words and Object Detection (PDF - 3.6MB)]({{< baseurl >}}/resources/mit16_485f20_lec22)
+[Lecture 22: Bag of Words and Object Detection (PDF - 3.6MB)]({{< baseurl >}}/resources/mit16_485f20_lec22)
 
 
 {{< tdclose >}}

@@ -43,9 +43,9 @@ Lab 1: Linux, C++, Git
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lab 1 slides (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab1slides)
+[Lab 1 slides (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab1slides)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lab 1 recitation (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab1notes)
+[Lab 1 recitation (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab1notes)
 
 [Lab 1 handout](https://vnav.mit.edu/labs/lab1/)
 
@@ -76,7 +76,7 @@ Lab 2: ROS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lab 2 slides (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab2slides)
+[Lab 2 slides (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab2slides)
 
 [Lab 2 handout](https://vnav.mit.edu/labs/lab2/)
 
