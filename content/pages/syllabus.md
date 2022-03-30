@@ -16,7 +16,7 @@ Prerequisites
 
 *   Real-time embedded programming (_16.35 Real-Time Systems and Software_ or similar — we are going to code in C++)
 *   Optimal estimation and control (_16.32 Principles of Optimal Control and Estimation_ or similar)
-*   Linear algebra (_[18.06 Linear Algebra](/courses/18-06-linear-algebra-spring-2010/)_ or similar)
+*   Linear algebra (_[18.06 Linear Algebra](/courses/18-06-linear-algebra-spring-2010)_ or similar)
 *   MIT students can get permission of the instructors.
 *   Assignments are largely based on ROS and openCV and are all in C++. Previous experience with robotics (_16.405 Robotics: Science and Systems_ or similar) is a plus.
 
